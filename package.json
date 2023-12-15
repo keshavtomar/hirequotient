@@ -1,0 +1,11 @@
+{
+  "name": "hirequotientassignment",
+  "version": "1.0.0",
+  "description": "This is the backened of an assignment given by hirequotient, it contains user logins and user registration, user profiles and posts and users can comment on those posts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
